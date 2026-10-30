@@ -6,11 +6,19 @@ ESP32 Weather Clock — инструкция по использованию
 ![Static Badge](https://img.shields.io/badge/Board-ESP32--2432S028-red)
 ![Static Badge](https://img.shields.io/badge/Display-TFT%20240x320-magenta)
 ![Static Badge](https://img.shields.io/badge/Wi--Fi-Config%20portal-brightgreen)
-![Static Badge](https://img.shields.io/badge/License-MIT-red)
 
 **Настольные часы с погодой, пятидневным прогнозом и сенсорным управлением.** Устройство получает время и погодные данные через Wi-Fi, сохраняет прогноз на SD-карту и продолжает работать, когда связь временно пропадает.
+## До публикации прошивки
 
+> **Продано: 1 из 10 устройств** · осталось **10**
+>
+> `▰▱▱▱▱▱▱▱▱▱` **10 %**
+>
 > После продажи 10 устройств прошивка будет выложена в открытый доступ.
+>
+> **[Посмотреть устройство на Авито ↗](https://www.avito.ru/sankt-peterburg/bytovaya_tehnika/wi-fi_meteostantsiya_s_sensornym_ekranom_8264401334)**
+
+
 
 ## Что понадобится
 
